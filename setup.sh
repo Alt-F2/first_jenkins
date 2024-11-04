@@ -1,6 +1,8 @@
 !# /bin/bash
-
 ls
-touch example.txt
-ls
+mkdir newfolder
+cd newfolder
+touch newfile.txt
 pwd
+ls
+
